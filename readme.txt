@@ -20,20 +20,3 @@ This "mod" it's tested whit the original theme.
 
 
 Ver V1.0
-//Admin set.
-admin/controller/sale/order.php
-admin/language/en-gb/sale/order.php
-admin/model/sale/order.php
-admin/view/templete/sale/order_info.twig
-
-//Catalogue set.
-catalogue/controller/checkout/register.php
-catalogue/controller/checkout/guest.php
-catalogue/controller/account/edit.php
-
-catalogue/language/en-gb/checkout/checkout.php
-catalogue/language/en-gb/account/edit.php
-
-catalogue/default/template/checkout/guest.php
-catalogue/default/template/checkout/register.php
-catalogue/default/template/account/edit.php
