@@ -8,11 +8,11 @@ To install this module:
 2 - Edit database whit query present on readme.txt:
 3 - Transfer files in your OpenCart folder.
 
-[b]This is not a module but a mod of stock file of Opencart.[/b]
+This is not a module but a mod of stock file of Opencart.
 
 If in you frontend not work, it's necessary edit your guest and register file on contoller.
 This "mod" it's tested whit the original theme. 
+Use this plug-in at your own risk
 
-[b]Use this plug-in at your own risk[b]
-
+V 3.0.2 -- OpenCart
 V 1.0 -- Release
